@@ -36,6 +36,7 @@ obj = Demo()
 
 del obj
 ## 🧪 Output
+<img width="1254" height="215" alt="image" src="https://github.com/user-attachments/assets/6a0b297c-118a-4aaf-a2b1-2126e6c7d18e" />
 
 ## Result
 Thus the program demonstrates how to implement a destructor in Python using a simple class has been executed successfully.
